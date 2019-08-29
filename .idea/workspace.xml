@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cfc1137-3083-4977-809a-301362307111" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/adapters/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$/adapters/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Q07Etfio86q1o8eOqlFokSB25j" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.SQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/specification/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/template-method" />
+      <recent name="$PROJECT_DIR$/decorator" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.CustomerIsGoldTest.a_customer_is_gold_if_they_have_the_respective_type">
+    <configuration name="CustomerIsGoldTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="CustomerIsGoldTest" file="$PROJECT_DIR$/specification/tests/CustomerIsGoldTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomerIsGoldTest.a_customer_is_gold_if_they_have_the_respective_type" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="CustomerIsGoldTest" file="$PROJECT_DIR$/specification/tests/CustomerIsGoldTest.php" method="a_customer_is_gold_if_they_have_the_respective_type" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomersRepositoryTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="CustomersRepositoryTest" file="$PROJECT_DIR$/specification/tests/CustomersRepositoryTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.CustomerIsGoldTest.a_customer_is_gold_if_they_have_the_respective_type" />
+        <item itemvalue="PHPUnit.CustomersRepositoryTest" />
+        <item itemvalue="PHPUnit.CustomerIsGoldTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cfc1137-3083-4977-809a-301362307111" name="Default Changelist" comment="" />
+      <created>1566895551311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566895551311</updated>
+      <workItem from="1566895553977" duration="18769000" />
+      <workItem from="1566980897221" duration="896000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
